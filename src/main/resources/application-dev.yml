@@ -1,0 +1,10 @@
+#
+spring-boot-grpc:
+
+  env: dev
+
+spring:
+
+  profiles:
+    include: default
+    active: dev
