@@ -2,7 +2,7 @@
 
 <configuration>
 
-    <property name = "LOG_NAME" value = "spring-boot-essentials"/>
+    <property name = "LOG_NAME" value = "spring-boot-grpc"/>
 
     <conversionRule conversionWord = "coloredLevel" converterClass = "play.api.libs.logback.ColoredLevel"
                     immediateFlush = "false"/>

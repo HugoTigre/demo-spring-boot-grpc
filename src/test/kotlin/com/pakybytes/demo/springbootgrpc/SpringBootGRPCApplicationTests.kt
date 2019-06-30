@@ -5,7 +5,7 @@ import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Test
 
 @UnitTest
-@DisplayName("Spring Boot Essentials Demo Application Test")
+@DisplayName("Spring Boot gRPC Demo Application Test")
 class SpringBootGRPCApplicationTests {
 
 	@Test

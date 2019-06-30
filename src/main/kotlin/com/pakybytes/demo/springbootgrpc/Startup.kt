@@ -28,7 +28,7 @@ class Startup : CommandLineRunner, Ordered {
 
     override
     fun run(vararg args: String?) {
-        log.debug("App name: ${conf.app.name}")
-        log.debug("Using environment: ${conf.env}")
+        log.info("App name: ${conf.app.name}")
+        log.info("Using environment: ${conf.env}")
     }
 }
